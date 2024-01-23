@@ -74,7 +74,6 @@ MS SQL Server, SQLite
 * Microsoft Azure: [AZ-900 Certification](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059)
 * Google Cloude: used for [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project)
 * Netlify: used for hosting [Language learning page](https://github.com/IIIA-KO/HTML-Learning-Language)
-* Vercel: [coming soon...]()
 
 ### GIT:
 <p align="left">
