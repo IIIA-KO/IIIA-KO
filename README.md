@@ -57,6 +57,8 @@ Windows Forms, WPF, ASP.NET Core MVC & Razor Pages, Web API, Entity Framework & 
 
 * Windows Forms: [WinForms studying projects](https://github.com/IIIA-KO/WindowsForms)
 * WPF: [Keyboard Trainer](https://github.com/IIIA-KO/KeyboardTrainer-WPF-MVVM) and [WPF studying projects](https://github.com/IIIA-KO/WPF)
+* System programming: [System programming styding projects](https://github.com/IIIA-KO/System-Programming)
+* Network programming: [Network programming styding projects](https://github.com/IIIA-KO/Network-Programming)
 * ASP.NET Core: [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project) or [CD Discs Store DB](https://github.com/IIIA-KO/CD-Discs-Store-DB-ASP.NET-Core)
 
 ### HTML, CSS, JS/TS:
