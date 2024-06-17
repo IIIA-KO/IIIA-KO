@@ -1,8 +1,6 @@
 # Illia Kotvitskyi
 
-I'm a student currently based in Zhytomyr, Ukraine, with a keen interest in software development.
-<br>
-Though I'm still in my academic journey, I'm open to job opportunities to contribute and grow in the tech world.
+I'm a student currently based in Zhytomyr, Ukraine, actively seeking a Junior .NET Developer position to contribute my skills and grow within the tech industry.
 
 <p align="left">
       <a href="mailto:iiiako197@gmail.com">
@@ -15,78 +13,65 @@ Though I'm still in my academic journey, I'm open to job opportunities to contri
 
 ---
 
-## 🎓 Education & Certifications
-* 2022-2026 - [Zhytomyr Polytechnic State University](https://ztu.edu.ua/en), majoring Software Engineering.
-* 2020-2024 - [STEP IT Academy](https://itstep.org/en), majoring Software Development.
-* Certified in Microsoft's [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059) (here's also my [trophies badges](https://learn.microsoft.com/en-us/users/illiakotviskyi-2674/achievements)) and Cisco's [IT Essentials](https://www.credly.com/badges/a5f6cd56-35a2-4751-9e64-006332315a98/public_url).
-
 ## 💼 Technology Specialization
-In the realm of technology, my expertise lies prominently within the .NET ecosystem.
-<br>
-Focusing on ASP.NET Core, WPF, EntityFramework, Dapper and other I have honed my skills to deliver efficient and robust solutions.
-<br>
-My dedication to these technologies reflects not only in my proficiency but also in a continuous commitment to advancing my expertise within the .NET Core.
 
+### .NET Technologies:
+- **ASP.NET Core**: Web API, Razor Pages, MVC
+- **Desktop Applications**: WPF, Windows Forms
+- **ORM**: Entity Framework, Dapper
 
-## 🛠️ Programming languages, Development technologies and Frameworks
-### Languages:
-<p align="left">
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-   <img width=35 style="display: inline-block; padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-   <!--<img width=40 style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">-->
-</p>
+### .NET Libraries:
+- **Logging**: Serilog
+- **CQRS and Mediator**: MediatR
+- **Validation**: FluentValidation
+- **Testing**: XUnit, FluentAssertions, Bogus
+- **Others**: AutoMapper, SignalR
 
-### Frameworks & Libraries:
-<p align="left">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
+### DevOps Skills:
+- **Containerization**: Docker
 
-### Check out my repositories:
+### Other Skills:
+- **Languages**: C#, C++, JavaScript, TypeScript, HTML, CSS, Python, PHP, Java
+- **Frameworks & Libraries**: Angular, React, Flask, Bootstrap, Spring, Laravel
+- **Databases**: Microsoft SQL Server, MongoDB, PostgreSQL, MySQL, Redis, SQLite
+
+## 🎓 Education & Certifications
+- **2022-2026**: [Zhytomyr Polytechnic State University](https://ztu.edu.ua/en), majoring in Software Engineering.
+- **2020-2024**: [STEP IT Academy](https://itstep.org/en), majoring in Software Development.
+- **Certifications**:
+  - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059) - Microsoft Azure Fundamentals
+  - [IT Essentials](https://www.credly.com/badges/a5f6cd56-35a2-4751-9e64-006332315a98/public_url) - Cisco
+
+## 📂 Key Projects
+
 ### C# & .NET:
-Windows Forms, WPF, ASP.NET Core MVC & Razor Pages, Web API, Entity Framework & Dapper
-
-* Windows Forms: [WinForms studying projects](https://github.com/IIIA-KO/WindowsForms)
-* WPF: [Keyboard Trainer](https://github.com/IIIA-KO/KeyboardTrainer-WPF-MVVM) and [WPF studying projects](https://github.com/IIIA-KO/WPF)
-* System programming: [System programming styding projects](https://github.com/IIIA-KO/System-Programming)
-* Network programming: [Network programming styding projects](https://github.com/IIIA-KO/Network-Programming)
-* ASP.NET Core: [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project) or [CD Discs Store DB](https://github.com/IIIA-KO/CD-Discs-Store-DB-ASP.NET-Core)
+- [WinForms studying projects](https://github.com/IIIA-KO/WindowsForms): Various projects to learn and practice Windows Forms.
+- [Keyboard Trainer](https://github.com/IIIA-KO/KeyboardTrainer-WPF-MVVM): A WPF application to improve typing skills, following MVVM architecture.
+- [Trendlink](https://github.com/IIIA-KO/Trendlink): ASP.NET Core + React project for social blogger search platform and successful advertising integration.
 
 ### HTML, CSS, JS/TS:
-* HTML + CSS: [Language learning page](https://github.com/IIIA-KO/HTML-Learning-Language)
-* Angular: [Angular studying projects](https://github.com/IIIA-KO/Angular)
-* Python Flask: [Music Band website](https://github.com/IIIA-KO/MusicBandWebsite-Python-Flask)
-
-### Databases & SQL:
-MS SQL Server, SQLite
-* T-SQL: [CD Discs Store DB](https://github.com/IIIA-KO/CD-Discs-Store-DB-ASP.NET-Core)
+- [Language Learning Page](https://github.com/IIIA-KO/HTML-Learning-Language): An educational webpage built with HTML and CSS.
+- [Angular Studying Projects](https://github.com/IIIA-KO/Angular): Projects for learning Angular framework.
 
 ### Cloud Technologies:
-* Microsoft Azure: [AZ-900 Certification](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059)
-* Google Cloude: used for [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project)
-* Netlify: used for hosting [Language learning page](https://github.com/IIIA-KO/HTML-Learning-Language)
+- **Microsoft Azure**: [AZ-900 Certification](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059)
+- **Google Cloud**: Used for hosting Web API + React projects.
+- **Netlify**: Used for hosting static websites.
+
+## 🛠️ Tools & Environments
 
 ### GIT:
 <p align="left">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
 ### IDEs:
 <p align="left">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-   <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
+    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
 
 ---
