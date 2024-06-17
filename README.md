@@ -55,8 +55,8 @@ I'm a student currently based in Zhytomyr, Ukraine, actively seeking a Junior .N
 
 ### Cloud Technologies:
 - **Microsoft Azure**: [AZ-900 Certification](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059)
-- **Google Cloud**: Used for hosting Web API + React projects.
-- **Netlify**: Used for hosting static websites.
+- **Google Cloud**: Used for storing data for [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project).
+- **Netlify**: Used for hosting static websites such as [Language learning page](https://github.com/IIIA-KO/HTML-Learning-Language).
 
 ## 🛠️ Tools & Environments
 
