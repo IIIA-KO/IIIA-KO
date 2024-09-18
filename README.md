@@ -24,8 +24,8 @@ I'm a student currently based in Zhytomyr, Ukraine, actively seeking a Junior .N
 - **Logging**: Serilog
 - **CQRS and Mediator**: MediatR
 - **Validation**: FluentValidation
-- **Testing**: XUnit, FluentAssertions, Bogus
-- **Others**: AutoMapper, SignalR
+- **Testing**: XUnit, FluentAssertions
+- **Others**: AutoMapper, SignalR, Bogus
 
 ### DevOps Skills:
 - **Containerization**: Docker
@@ -49,30 +49,10 @@ I'm a student currently based in Zhytomyr, Ukraine, actively seeking a Junior .N
 - [Keyboard Trainer](https://github.com/IIIA-KO/KeyboardTrainer-WPF-MVVM): A WPF application to improve typing skills, following MVVM architecture.
 - [Trendlink](https://github.com/IIIA-KO/Trendlink): ASP.NET Core + React project for social blogger search platform and successful advertising integration.
 
-### HTML, CSS, JS/TS:
-- [Language Learning Page](https://github.com/IIIA-KO/HTML-Learning-Language): An educational webpage built with HTML and CSS.
-- [Angular Studying Projects](https://github.com/IIIA-KO/Angular): Projects for learning Angular framework.
-
 ### Cloud Technologies:
 - **Microsoft Azure**: [AZ-900 Certification](https://learn.microsoft.com/api/credentials/share/en-us/IlliaKotviskyi-2674/28D61981C8E9244B?sharingId=A5630BFA4A843059)
 - **Google Cloud**: Used for storing data for [Web API + React Group Project](https://github.com/IIIA-KO/CD_Discs_Store-Group_Project).
 - **Netlify**: Used for hosting static websites such as [Language learning page](https://github.com/IIIA-KO/HTML-Learning-Language).
-
-## 🛠️ Tools & Environments
-
-### GIT:
-<p align="left">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</p>
-
-### IDEs:
-<p align="left">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white">
-    <img style="display: inline-block; padding-right: 10px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</p>
 
 ---
 
