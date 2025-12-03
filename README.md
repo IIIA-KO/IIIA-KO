@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Illia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a Junior .NET developer who spends more time debugging than coding. Currently building cool things like [Lanka](https://github.com/IIIA-KO/Lanka) and experimenting with new coding approaches.
+I'm a .NET Software Engineer who spends more time debugging than coding. Currently building cool things like [Lanka](https://github.com/IIIA-KO/Lanka) and experimenting with new coding approaches.
 
 > "May the code be with you." – A rebel dev from a galaxy far, far away
 
