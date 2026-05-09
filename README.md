@@ -29,6 +29,6 @@ Day job: backend services on the LSEG account. After hours: architecture I can't
 
 ## Reach
 
-`kotvickijilla@gmail.com` · [LinkedIn](https://linkedin.com/in/illia-kotvitskyi)
+`iiiako197@gmail.com` · [LinkedIn](https://linkedin.com/in/illia-kotvitskyi)
 
 <sub><i>Measure twice, cut once — applies to code, applies to deploys, applies to commits at 2am.</i></sub>
