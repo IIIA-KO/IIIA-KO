@@ -19,7 +19,6 @@ Day job: backend services on the LSEG account. After hours: architecture I can't
 ## Selected projects
 
 - **[Lanka](https://github.com/IIIA-KO/Lanka)** — Modular monolith for social-media campaign management. .NET 10, Aspire, Keycloak, 14 ADRs, full docs site. Where I apply modern .NET architecture by building it end-to-end.
-- **[Trendlink](https://github.com/IIIA-KO/Trendlink)** *(archived)* — Influencer-brand matching platform. Clean Architecture, MediatR, EF Core + Dapper, Quartz.NET, SignalR, Instagram Graph API, Keycloak.
 
 ## Background
 
